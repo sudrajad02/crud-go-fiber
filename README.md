@@ -2,7 +2,7 @@
 
 Crud Go Fiber project dengan fitur:
 - CRUD Device
-- CRID Sensor
+- CRUD Sensor
 
 ## **Persyaratan**
 - Go Version go1.22.0
