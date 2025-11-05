@@ -31,3 +31,15 @@ Crud Go Fiber project dengan fitur:
    ```bash
    go run main.go
    ```
+
+## **Endpoint**
+| Method | Endpoint         | Deskripsi             |
+|--------|------------------|-----------------------|
+| GET    | /api/device      | Ambil semua device    |
+| POST   | /api/device      | Add new device        |
+| PUT    | /api/device/:id  | Edit device           |
+| DELETE | /api/device/:id  | Delete device         |
+| GET    | /api/sensor      | Ambil semua sensor    |
+| POST   | /api/sensor      | Add new sensor        |
+| PUT    | /api/sensor/:id  | Edit sensor           |
+| DELETE | /api/sensor/:id  | Delete sensor         |
